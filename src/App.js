@@ -30,7 +30,7 @@ function App() {
 
   return (
     <div>
-      <h1> JOSÉ GARCIA HAMDAN Notas Rápidas</h1>
+      <h1> JOSÉ GARCIA HAMDAN 2.0 Notas Rápidas</h1>
       <form onSubmit={addNote}>
         <input
           type="text"
